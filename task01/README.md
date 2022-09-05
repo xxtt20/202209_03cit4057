@@ -5,5 +5,3 @@ src/students.csv
 ```
 
 with your name and student id.
-
-TBD.
