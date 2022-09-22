@@ -1,3 +1,5 @@
+Updated on 2022-09-22
+
 The following is my Discord invitation.   Please install Discord, create your account and then click the following link.
 
 ```
