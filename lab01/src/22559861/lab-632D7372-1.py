@@ -1,7 +1,12 @@
+from xml.dom.expatbuilder import theDOMImplementation
+
+
 def splitString(inputString): 
     # START: Write your code here
-    return ## <Write your code here> 
-    # END: Write you code here
+    splitString = inputString.split()
+    
+    return splitString
+    # END: Write you code hereab
  
 def main(): 
     userInput = input("Enter a sentense: ")

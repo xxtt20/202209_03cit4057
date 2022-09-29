@@ -1,8 +1,9 @@
 def getString() :
     ret = ""
-    # START: Write your code here
-
-    # END: Write you code here
+    points = 11
+    lives = 5
+    ret = "You have {} points and {} lines".format(points, lives) 
+    
     return ret
 
 def main():

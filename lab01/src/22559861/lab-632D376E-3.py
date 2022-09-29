@@ -1,8 +1,10 @@
 def getString(firstName, lastName) :
     fullName = ""
     # START: Write your code here
-    # Please use .join()
-    
+   
+    fullName = "{} {}".format(firstName,lastName)
+    # Please use .format()
+
     # END: Write you code here
     return fullName
 

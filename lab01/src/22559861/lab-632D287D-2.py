@@ -1,8 +1,18 @@
+2*5/2
+6+6*6
+4-2/10
+6**2
+8-9+10
+6/6*10
+6/(6*10)
+
+"task 2"
+
 def getString() :
     ret = ""
-    # START: Write your code here
-
-    # END: Write you code here
+    str1 = "Holly"
+    str2 = "Dolly"
+    ret = str1 + str2
     return ret
 
 def main():
