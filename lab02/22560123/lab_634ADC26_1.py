@@ -1,6 +1,9 @@
 def answer( numInput ) :
     is_prime = True
     # START: You code here
+    for value in range (2,numInput):
+        if numInput % value == 0:
+            is_prime = False
     # END: You code here
     return is_prime
 
