@@ -1,7 +1,10 @@
 def answer(input_number_str):
     ret = 0
     # BEGIN: You code here
-    ret=int(input_number_str)+ 5
+    if input_number_str.isnumeric() :
+        ret = int(input_number_str) + 5
+    else :
+        ret = 0
     # END: You code here
     return ret
 

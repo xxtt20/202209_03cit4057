@@ -1,7 +1,7 @@
 def answer():
     ret = ""
-    # START: You code here 
-    ret='\x50\x79\x74\x68\x6F\x6E' 
+    # START: You code here  
+    ret = "Hello"+"\n"+"Mary"+"\n"+"Hello\tMary"
     # END: You code here
     return ret
 
