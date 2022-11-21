@@ -35,6 +35,8 @@ https://discord.gg/eDXN8gbS
 
 [06 - Lecture 07, 08 Collection PowerPoint](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_03cit4057/lecture/06.00-Collection.pdf?csf=1&web=1&e=NFym8E)
 
-[07 - Lecture 09 Function PowerPoint](
+[07 - Lecture 09 Function and Modules PowerPoint](
 https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_03cit4057/lecture/09.00-Function.pdf?csf=1&web=1&e=hV5sdW)
+
+[08 - Lecture 10 Function and Modules (2) PowerPoint](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_03cit4057/lecture/10.00-Modules.pdf?csf=1&web=1&e=XivAy9)
 
