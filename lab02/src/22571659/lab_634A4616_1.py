@@ -1,16 +1,17 @@
-STACK = "This is a test input"
-
-def answer( str_val ):
+def answer(value):
     ret = ""
     # START: You code here
-    ret = str_val[-6:-1:] + str_val[-1]
+    if value == 10:
+        ret = 'hello'
+    else:
+        ret = 'The number is not 10'
     # END: You code here
     return ret
 
 # Please don't change the code below!!!
 def main():
-    userInput = input("Enter a string: ")
-    print( answer(userInput) )
+    value = float(input("Enter a number: "))
+    print( answer(value) )
 
 if __name__ == "__main__":
     main()
